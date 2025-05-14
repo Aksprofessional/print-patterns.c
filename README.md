@@ -1,6 +1,5 @@
 # print-patterns.c
-// Online C compiler to print pattern  Z ZY ZYX ZYXW ZYXWV 
-// Online C compiler to print pattern 
+// C program to print pattern  Z ZY ZYX ZYXW ZYXWV 
 
 Z
 ZY
